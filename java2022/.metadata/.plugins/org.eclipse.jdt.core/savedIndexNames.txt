@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\furka\Desktop\java2022\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2308694579.index
+4249329087.index
